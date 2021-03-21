@@ -1,0 +1,6 @@
+The goodies selected for distribution: 
+Fitbit Plus: 7980
+Digital Camera: 11101
+Alexa: 9999
+Microwave Oven: 9800
+And the difference between the chosen goodie with highest price and the lowest price is 3121
